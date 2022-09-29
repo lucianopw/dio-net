@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repo
+# Desafio GitHub Dio .NET
 Desafio de Projeto sobre Git/GitHub
